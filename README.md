@@ -14,12 +14,12 @@ Kami dengan senang hati mengumumkan pembukaan Forum Diskusi, tempat di mana kita
 - Jangan ragu untuk memberikan masukan dan saran untuk perbaikan forum ini.
 
 ## Link Diskusi
-[Announcements](https://github.com/zufarrizal/forum-diskusi/discussions/categories/announcements)
-[General](https://github.com/zufarrizal/forum-diskusi/discussions/categories/general)
-[Ideas](https://github.com/zufarrizal/forum-diskusi/discussions/categories/ideas)
-[Polls](https://github.com/zufarrizal/forum-diskusi/discussions/categories/polls)
-[Q&A](https://github.com/zufarrizal/forum-diskusi/discussions/categories/q-a)
-[Show & Tell](https://github.com/zufarrizal/forum-diskusi/discussions/categories/show-and-tell)
+- [Announcements](https://github.com/zufarrizal/forum-diskusi/discussions/categories/announcements)
+- [General](https://github.com/zufarrizal/forum-diskusi/discussions/categories/general)
+- [Ideas](https://github.com/zufarrizal/forum-diskusi/discussions/categories/ideas)
+- [Polls](https://github.com/zufarrizal/forum-diskusi/discussions/categories/polls)
+- [Q&A](https://github.com/zufarrizal/forum-diskusi/discussions/categories/q-a)
+- [Show & Tell](https://github.com/zufarrizal/forum-diskusi/discussions/categories/show-and-tell)
 
 Kami berharap forum ini dapat menjadi tempat yang bermanfaat dan menyenangkan untuk bertukar ide dan solusi. Selamat berdiskusi, dan mari kita bangun komunitas yang kuat bersama!
 
