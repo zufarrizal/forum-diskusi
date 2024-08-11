@@ -1,5 +1,3 @@
-Tentu! Berikut adalah revisi dengan bagian "Apa yang Bisa Anda Lakukan di Sini?" yang lebih lengkap, mencakup semua kategori diskusi:
-
 # 🌟 Selamat Datang di Forum Diskusi! 🌟
 
 Halo, semuanya! 🎉  
